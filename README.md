@@ -27,9 +27,7 @@ python3 main.py
 **The foundational idea of this app is distribution, however to test it locally you can just re-run the app multiple times using the same command.**
 
 ## Demo
-<video width="95%" height="350px" controls >
-  <source src="./assets/collaborative-text-editor-demo.mp4" type="video/mp4">
-</video>
+![](./assets/collaborative-text-editor-demo)
 
 
 
