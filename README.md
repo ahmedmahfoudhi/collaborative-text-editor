@@ -27,7 +27,7 @@ python3 main.py
 **The foundational idea of this app is distribution, however to test it locally you can just re-run the app multiple times using the same command.**
 
 ## Demo
-![](./assets/collaborative-text-editor-demo.mov)
+[![demo](https://img.youtube.com/vi/xS5WsQfVoe8/0.jpg)](https://www.youtube.com/watch?v=xS5WsQfVoe8)
 
 
 
